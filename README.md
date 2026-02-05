@@ -16,7 +16,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn streamlit
 
 ## How to Run
 
-### Option 1 — View analysis
+### Option 1 - View analysis
 
 Open the notebook:
 
@@ -26,13 +26,13 @@ All outputs are pre-executed.
 
 ---
 
-### Option 2 — Run interactively
+### Option 2 - Run interactively
 
 Run all cells from top to bottom.
 
 ---
 
-### Optional — Launch dashboard
+### Optional - Launch dashboard
 
 streamlit run app.py
 
