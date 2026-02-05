@@ -1,4 +1,4 @@
-# Project Summary  Trader Behavior vs Market Sentiment
+# Project Summary - Trader Behavior vs Market Sentiment
 
 ## Methodology
 
